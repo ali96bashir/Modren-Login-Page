@@ -1,17 +1,27 @@
-# modrenlogin
+# Flutter Modern Login Page UI ✨
 
-A new Flutter project.
+A clean and modern Flutter Windows login page with smooth animations, elegant input fields, responsive desktop layout, and beautiful micro-interactions.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="assets/demo.gif" width="260"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Modern login page UI
+- Built with Flutter Windows
+- Smooth input focus animation
+- Clean text fields design
+- Animated login button
+- Responsive desktop layout
+- Beautiful transition effects
+- Pure Flutter without packages
+
+## Run Project
+
+```bash
+flutter pub get
+flutter run -d windows
