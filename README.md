@@ -5,7 +5,7 @@ A clean and modern Flutter Windows login page with smooth animations, elegant in
 ## Preview
 
 <p align="center">
-  <img src="assets/demo.gif" width="520"/>
+  <img src="assets/demo.gif" width="1024"/>
 </p>
 
 
